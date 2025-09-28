@@ -34,8 +34,8 @@ You can search for Pokémon, view details (stats, abilities, height, weight), an
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/Coderharshit01/Pokedex-App-using-PokeAPI.git
+   cd Pokedex-App-using-PokeAPI
 ````
 
 2. Install dependencies
