@@ -1,4 +1,4 @@
-Got it 👍 Here’s a **README.md template** you can directly drop into your project. I made it polished but simple, so anyone visiting your repo gets a clear idea:
+
 
 ````markdown
 # Pokédex React App ⚡
